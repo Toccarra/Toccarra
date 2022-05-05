@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Toccarra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Python, Java
-- 💞️ I’m looking to collaborate on ... projects where I can get my feet wet, contribute to something on a larger scale
+- 👋 Hi, I’m Toccarra
+- 👀 I’m interested in ... learning new technologies and contributing to open source
+- 🌱 I’m currently learning ... Python, Java, HTML, JavaScript
+- 💞️ I’m looking to collaborate on open source projects based on fun and knowledge-sharing
 - 📫 How to reach me ...
 
 <!---
